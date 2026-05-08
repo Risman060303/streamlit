@@ -1,5 +1,5 @@
-torch>=2.2,<2.3
-torchvision>=0.17,<0.18
+torch==2.2.1
+torchvision==0.17.1
 streamlit==1.32.0
 pillow==10.2.0
 numpy==1.26.4
